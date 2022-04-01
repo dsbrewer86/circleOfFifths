@@ -2,7 +2,11 @@
   to do this call circle(X). X will be the key you would like to generate
   the circle of fifths in. The first line printed is the outer circle the second line is
   the inner circle. To generate a major7 chord call genMajorChord(X) where X is the root note
-  of the chord you would like to generate*/
+  of the chord you would like to generate
+  
+  explanation of circle of fifths, how to use it to constuct chords and chord progressions:
+  https://www.edmtips.com/the-circle-of-fifths-and-how-to-use-it/
+  */
 
 /*
 SAMPLE OUTPUT:
